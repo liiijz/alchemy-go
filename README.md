@@ -1,5 +1,8 @@
 # Alchemy Go SDK
 
+![Status](https://img.shields.io/badge/status-WIP-yellow)
+![Status](https://img.shields.io/badge/status-under%20development-orange)
+
 A Go client library for the [Alchemy API](https://www.alchemy.com/), providing easy access to blockchain data and Web3 infrastructure.
 
 ## Features
